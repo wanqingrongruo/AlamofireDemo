@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "group:Alamofire"
+      name = "Alamofire">
+      <Group
+         location = "group:Photomania"
+         name = "Photomania">
+         <FileRef
+            location = "group:AppDelegate.swift">
+         </FileRef>
+         <Group
+            location = "group:Base.lproj"
+            name = "Base.lproj">
+            <FileRef
+               location = "group:Main.storyboard">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:DownloadedPhotoBrowserCollectionViewController.swift">
+         </FileRef>
+         <FileRef
+            location = "group:Five100px.swift">
+         </FileRef>
+         <Group
+            location = "group:Images.xcassets"
+            name = "Images.xcassets">
+            <Group
+               location = "group:AppIcon.appiconset"
+               name = "AppIcon.appiconset">
+               <FileRef
+                  location = "group:120.png">
+               </FileRef>
+               <FileRef
+                  location = "group:180.png">
+               </FileRef>
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:Brand Assets.launchimage"
+               name = "Brand Assets.launchimage">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:bubble.imageset"
+               name = "bubble.imageset">
+               <FileRef
+                  location = "group:bubble.png">
+               </FileRef>
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+            </Group>
+            <FileRef
+               location = "group:Contents.json">
+            </FileRef>
+            <Group
+               location = "group:hamburger.imageset"
+               name = "hamburger.imageset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+               <FileRef
+                  location = "group:hamburger.png">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:heart.imageset"
+               name = "heart.imageset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+               <FileRef
+                  location = "group:heart.png">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:like.imageset"
+               name = "like.imageset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+               <FileRef
+                  location = "group:like.png">
+               </FileRef>
+            </Group>
+         </Group>
+         <FileRef
+            location = "group:Info.plist">
+         </FileRef>
+         <FileRef
+            location = "group:Launch Screen.storyboard">
+         </FileRef>
+         <FileRef
+            location = "group:PhotoBrowserCollectionViewController.swift">
+         </FileRef>
+         <FileRef
+            location = "group:PhotoCommentsViewController.swift">
+         </FileRef>
+         <FileRef
+            location = "group:PhotoDetailsViewController.swift">
+         </FileRef>
+         <FileRef
+            location = "group:PhotoViewerViewController.swift">
+         </FileRef>
+         <FileRef
+            location = "group:ProgressIndicatorView.swift">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:Photomania.xcodeproj">
+      </FileRef>
+   </Group>
+   <Group
+      location = "group:AlamofireBoxue"
+      name = "AlamofireBoxue">
+      <Group
+         location = "group:AlamofireBoxue"
+         name = "AlamofireBoxue">
+         <FileRef
+            location = "group:AppDelegate.swift">
+         </FileRef>
+         <Group
+            location = "group:Assets.xcassets"
+            name = "Assets.xcassets">
+            <Group
+               location = "group:AppIcon.appiconset"
+               name = "AppIcon.appiconset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+            </Group>
+         </Group>
+         <Group
+            location = "group:Base.lproj"
+            name = "Base.lproj">
+            <FileRef
+               location = "group:LaunchScreen.storyboard">
+            </FileRef>
+            <FileRef
+               location = "group:Main.storyboard">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:Info.plist">
+         </FileRef>
+         <FileRef
+            location = "group:ViewController.swift">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:AlamofireBoxue.xcodeproj">
+      </FileRef>
+      <Group
+         location = "group:AlamofireBoxueTests"
+         name = "AlamofireBoxueTests">
+         <FileRef
+            location = "group:AlamofireBoxueTests.swift">
+         </FileRef>
+         <FileRef
+            location = "group:Info.plist">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:AlamofireBoxueUITests"
+         name = "AlamofireBoxueUITests">
+         <FileRef
+            location = "group:AlamofireBoxueUITests.swift">
+         </FileRef>
+         <FileRef
+            location = "group:Info.plist">
+         </FileRef>
+      </Group>
+   </Group>
+</Workspace>
