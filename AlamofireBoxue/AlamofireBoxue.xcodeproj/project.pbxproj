@@ -672,6 +672,7 @@
 				E08D5B421E9E049E005910CE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		E08D5B431E9E049E005910CE /* Build configuration list for PBXNativeTarget "AlamofireBoxueTests" */ = {
 			isa = XCConfigurationList;
@@ -680,6 +681,7 @@
 				E08D5B451E9E049E005910CE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		E08D5B461E9E049E005910CE /* Build configuration list for PBXNativeTarget "AlamofireBoxueUITests" */ = {
 			isa = XCConfigurationList;
@@ -688,6 +690,7 @@
 				E08D5B481E9E049E005910CE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
